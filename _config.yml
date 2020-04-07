@@ -11,37 +11,28 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: Ryan Wong
+description: Welcome to my Page.
 owner:
-  name: _your name_ # or company name
-  url: "http://example.com" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
-                      # Must be a 4-digit integer year (math is used on it)
-url: "http://example.com" # the base hostname & protocol for this site
-baseurl: "" # the subpath of your site, e.g. /blog
-            # Note you'll have to move your robots.txt to the root if you want it used.
-            # And list multiple sitemaps if there are other subdirectories you want indexed
-            # besides this blog.
+  name: Ryan Wong # or company name
+  url: "http://RyanW11.github.io" # your URL
 lang: en-us # used in HTML lang attributes
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: About
+  text: I am a recent law graduate from the University of Exeter in the United Kingdom. I have worked in a professional setting for a representative body in Hong Kong as a legal intern, obtained my legal education overseas in England, as well as having a thorough understanding of the historical and contemporary legal matters that affect Canada. Areas that pique my interest are the relationships between the development of technology and the potential legal impacts the applications of frontier technologies have on current legislation, matters of intellectual property, and competition law. I am eager to apply myself in both an academic and professional setting to hone my skills and become a leader in the legal field. 
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Contact
+closing-para: Feel free to contact me if you have any questions or queries.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
+  github: https://github.com/RyanW11
+  linkedin-square: https://linkedin.com/in/ryanwong11
   #google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  email: ryanwong11@live.com # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
   #youtube-square:
