@@ -86,18 +86,7 @@ creds:
     by  : jQuery Foundation
     url : https://jquery.com/
     lic : mit
-#
-inspiration:
-  - name : Michael Rose
-    url  : https://github.com/mmistakes
-  - name : David Ollerhead
-    url  : https://github.com/oller
-  - name : Bud Parr
-    url  : https://github.com/budparr
-  - name : Vladimir Zhbanko
-    url  : https://twitter.com/vladdsm
-  - name : Adam Garrett-Harris
-    url  : https://twitter.com/agarrharr
+
 #
 other-image-credit: All other images are public domain.
 #
@@ -107,14 +96,14 @@ other-image-credit: All other images are public domain.
 # 'lic' values correspond to the keys in the license hash above
 #
 image-credit:
-  - src : /images/caustic_light.jpg
-    by  : fdecomite
-    url : https://www.flickr.com/photos/fdecomite/1907376527/
-    lic : ccb2
-  - src : /images/flickr-froderik.jpg
-    by  : froderik
-    url : https://www.flickr.com/photos/froderik/9355090806/
-    lic : ccbsa2
+  - src : /images/Resume Page.jpg
+    by  : Giammarco Boscaro
+    url : https://unsplash.com/photos/zeH-ljawHtg
+    lic : Public Domain
+  - src : /images/Experience Page.jpg
+    by  : Dariusz Sankowski
+    url : https://unsplash.com/photos/ABAmxzlot8E
+    lic : Public Domain
   - src : /images/ladyjustice.jpg
     by  : WilliamCho
     url : https://pixabay.com/photos/justice-statue-lady-justice-2060093/
